@@ -1,0 +1,15 @@
+C:\Users\wayne.blaylock\lab2WayneBlaylockClairDeLune\bin\Debug\net6.0\lab2WayneBlaylockClairDeLune.exe
+C:\Users\wayne.blaylock\lab2WayneBlaylockClairDeLune\bin\Debug\net6.0\lab2WayneBlaylockClairDeLune.deps.json
+C:\Users\wayne.blaylock\lab2WayneBlaylockClairDeLune\bin\Debug\net6.0\lab2WayneBlaylockClairDeLune.runtimeconfig.json
+C:\Users\wayne.blaylock\lab2WayneBlaylockClairDeLune\bin\Debug\net6.0\lab2WayneBlaylockClairDeLune.dll
+C:\Users\wayne.blaylock\lab2WayneBlaylockClairDeLune\bin\Debug\net6.0\lab2WayneBlaylockClairDeLune.pdb
+C:\Users\wayne.blaylock\lab2WayneBlaylockClairDeLune\obj\Debug\net6.0\lab2WayneBlaylockClairDeLune.csproj.AssemblyReference.cache
+C:\Users\wayne.blaylock\lab2WayneBlaylockClairDeLune\obj\Debug\net6.0\lab2WayneBlaylockClairDeLune.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wayne.blaylock\lab2WayneBlaylockClairDeLune\obj\Debug\net6.0\lab2WayneBlaylockClairDeLune.AssemblyInfoInputs.cache
+C:\Users\wayne.blaylock\lab2WayneBlaylockClairDeLune\obj\Debug\net6.0\lab2WayneBlaylockClairDeLune.AssemblyInfo.cs
+C:\Users\wayne.blaylock\lab2WayneBlaylockClairDeLune\obj\Debug\net6.0\lab2WayneBlaylockClairDeLune.csproj.CoreCompileInputs.cache
+C:\Users\wayne.blaylock\lab2WayneBlaylockClairDeLune\obj\Debug\net6.0\lab2WayneBlaylockClairDeLune.dll
+C:\Users\wayne.blaylock\lab2WayneBlaylockClairDeLune\obj\Debug\net6.0\refint\lab2WayneBlaylockClairDeLune.dll
+C:\Users\wayne.blaylock\lab2WayneBlaylockClairDeLune\obj\Debug\net6.0\lab2WayneBlaylockClairDeLune.pdb
+C:\Users\wayne.blaylock\lab2WayneBlaylockClairDeLune\obj\Debug\net6.0\lab2WayneBlaylockClairDeLune.genruntimeconfig.cache
+C:\Users\wayne.blaylock\lab2WayneBlaylockClairDeLune\obj\Debug\net6.0\ref\lab2WayneBlaylockClairDeLune.dll
